@@ -43,7 +43,7 @@ export default function Home() {
       <div id="about" className="min-w-screen flex">
         <div className="mx-auto mt-10">
           <h1 className="text-7xl">
-            Hi, I'm <span className="font-semibold">Tyler Pham</span>
+            Hi, I&apos;m <span className="font-semibold">Tyler Pham</span>
           </h1>
         </div>
       </div>
