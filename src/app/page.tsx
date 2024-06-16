@@ -51,8 +51,9 @@ export default function Home() {
       <div className="min-w-screen flex px-4 py-4 mt-4">
         <div className="mx-auto">
           <h1 className="text-3xl">
-            I'm an <span className="underline">aspiring software engineer</span>{" "}
-            at <span className="font-semibold">Texas A&M University.</span>
+            I&apos;m an{" "}
+            <span className="underline">aspiring software engineer</span> at{" "}
+            <span className="font-semibold">Texas A&amp;M University.</span>
           </h1>
         </div>
       </div>
